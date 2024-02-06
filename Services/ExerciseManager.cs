@@ -57,6 +57,7 @@ namespace Services
 
         private async Task<Exercise> GetOneExerciseByIdAndCheckExist(int id, bool trackChanges)
         {
+            int x = 0;
             var exercise = await _manager.Exercise.GetOneExerciseByIdAsync(id, trackChanges);
             if (exercise == null)
                 throw new Exception("Exercise not found.");
