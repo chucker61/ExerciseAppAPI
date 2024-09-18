@@ -75,7 +75,7 @@ namespace Presentation.Controllers
         }
         private string GetCurrentUserName()
         {
-            var userName = User.Identity.Name;
+            var userName = User.Identity?.Name;
             if (userName == null)
             {
                 throw new Exception("Username is null");

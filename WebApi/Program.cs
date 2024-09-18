@@ -64,6 +64,7 @@ if (app.Environment.IsDevelopment())
     {
         s.SwaggerEndpoint("/swagger/v1/swagger.json", "Book Store v1");
         s.SwaggerEndpoint("/swagger/v2/swagger.json", "Book Store v2");
+        s.RoutePrefix = string.Empty;
     });
 }
                   

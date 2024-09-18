@@ -1795,3 +1795,82 @@
 2024-01-30 10:13:18.6822 Info Message Template Auto Format enabled
 2024-01-30 10:13:18.8274 Info Registered target NLog.Targets.FileTarget(Name=logfile)
 2024-01-30 10:13:18.8537 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-08 13:34:44.9011 Info Message Template Auto Format enabled
+2024-02-08 13:34:44.9726 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-08 13:34:44.9884 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-08 13:34:50.3424 Info AppDomain Shutting down. LogFactory closing...
+2024-02-08 13:34:50.3424 Info LogFactory has been closed.
+2024-02-08 13:34:59.3594 Info Message Template Auto Format enabled
+2024-02-08 13:34:59.4387 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-08 13:34:59.4659 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-08 14:27:57.5604 Info Message Template Auto Format enabled
+2024-02-08 14:27:57.6672 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-08 14:27:57.6959 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-08 15:47:05.4250 Info Message Template Auto Format enabled
+2024-02-08 15:47:05.5458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-08 15:47:05.5770 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-16 12:26:00.6953 Info Message Template Auto Format enabled
+2024-02-16 12:26:00.8109 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 12:26:00.8508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-20 10:30:01.4966 Info Message Template Auto Format enabled
+2024-02-20 10:30:01.6018 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-20 10:30:01.6401 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-02-26 10:48:03.1246 Info Message Template Auto Format enabled
+2024-02-26 10:48:03.3496 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-26 10:48:03.4097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-03-03 10:13:20.1350 Info Message Template Auto Format enabled
+2024-03-03 10:13:20.2693 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-03 10:13:20.2942 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-03-03 10:42:54.3131 Info Message Template Auto Format enabled
+2024-03-03 10:42:54.4035 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-03 10:42:54.4370 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-03-05 20:27:06.0881 Info Message Template Auto Format enabled
+2024-03-05 20:27:06.1406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 20:27:06.1571 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-03-05 20:27:06.3810 Info AppDomain Shutting down. LogFactory closing...
+2024-03-05 20:27:06.3926 Info LogFactory has been closed.
+2024-03-05 20:27:10.4468 Info Message Template Auto Format enabled
+2024-03-05 20:27:10.5002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 20:27:10.5183 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-03-05 20:27:10.6708 Info AppDomain Shutting down. LogFactory closing...
+2024-03-05 20:27:10.6803 Info LogFactory has been closed.
+2024-03-05 20:27:59.3437 Info Message Template Auto Format enabled
+2024-03-05 20:27:59.3884 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 20:27:59.4046 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Release\net6.0\nlog.config
+2024-03-05 20:28:00.3373 Info AppDomain Shutting down. LogFactory closing...
+2024-03-05 20:28:00.3373 Info LogFactory has been closed.
+2024-03-05 20:29:55.8264 Info Message Template Auto Format enabled
+2024-03-05 20:29:55.9594 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 20:29:55.9875 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-03-05 20:34:56.7168 Info Message Template Auto Format enabled
+2024-03-05 20:34:56.7613 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 20:34:56.7776 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Release\net6.0\nlog.config
+2024-03-05 20:34:57.6565 Info AppDomain Shutting down. LogFactory closing...
+2024-03-05 20:34:57.6644 Info LogFactory has been closed.
+2024-03-05 21:05:35.6999 Info Message Template Auto Format enabled
+2024-03-05 21:05:35.8222 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 21:05:35.8481 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\melik\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-07-01 11:10:55.4560 Info Message Template Auto Format enabled
+2024-07-01 11:10:55.6422 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:10:55.6820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Chucker\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-07-01 11:29:57.6857 Info Message Template Auto Format enabled
+2024-07-01 11:29:57.7792 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:29:57.8062 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Chucker\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-07-01 11:30:01.4408 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 11:30:01.4554 Info LogFactory has been closed.
+2024-07-01 11:30:33.3445 Info Message Template Auto Format enabled
+2024-07-01 11:30:33.4879 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:30:33.5162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Chucker\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-07-01 11:32:54.5737 Info Message Template Auto Format enabled
+2024-07-01 11:32:54.6992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:32:54.7396 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Chucker\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-08-13 11:13:41.3060 Info Message Template Auto Format enabled
+2024-08-13 11:13:41.3684 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 11:13:41.3851 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Chucker\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-08-13 11:13:42.3220 Info AppDomain Shutting down. LogFactory closing...
+2024-08-13 11:13:42.3220 Info LogFactory has been closed.
+2024-08-13 11:13:58.2585 Info Message Template Auto Format enabled
+2024-08-13 11:13:58.3022 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 11:13:58.3180 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Chucker\projects\ExerciseApp\WebApi\bin\Debug\net6.0\nlog.config
+2024-08-13 11:14:00.4499 Info AppDomain Shutting down. LogFactory closing...
+2024-08-13 11:14:00.4578 Info LogFactory has been closed.
