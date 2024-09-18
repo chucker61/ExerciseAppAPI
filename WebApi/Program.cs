@@ -11,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 LogManager.Setup().LoadConfigurationFromFile("nlog.config");
 
+
 builder.Services.AddControllers(config =>
 {
     config.RespectBrowserAcceptHeader = true;
